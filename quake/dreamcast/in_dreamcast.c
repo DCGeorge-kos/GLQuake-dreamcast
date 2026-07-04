@@ -158,7 +158,7 @@ static void IN_Mouse(void)
 	0,
 	K_MOUSE2,	/* rbutton  */
 	K_MOUSE1,	/* lbutton */
-	0 /* K_MOUSE3 */,	/* wheel press? */
+	K_MOUSE3,	/* side button */
 	K_MWHEELUP,	/* wheel up*/
 	K_MWHEELDOWN,	/* wheel down */
 	};
