@@ -1,6 +1,6 @@
 TARGET_EXEC ?= nuquake.elf
 
-BUILD_DIR ?= ./build_dc
+BUILD_DIR ?= ./build
 EXEC_DIR ?= $(BUILD_DIR)
 SRC_DIRS ?= $(shell pwd)/quake
 ROOT_DIR := .
